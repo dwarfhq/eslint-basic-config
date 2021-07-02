@@ -1,0 +1,29 @@
+{
+  "name": "@yuagency/eslint-config-react",
+  "version": "1.0.0",
+  "description": "Standard ESlint settings for all React/Gatsby projects in Yellow Umwelt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umweltdk/eslint-config-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "eslint-config-react"
+  ],
+  "author": "Yellow Umwelt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umweltdk/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/umweltdk/eslint-config-react#readme",
+  "peerDependencies": {
+    "eslint": ">= 6",
+    "eslint-plugin-react": ">= 6"
+  }
+}
