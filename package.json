@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/umweltdk/eslint-config-react#readme",
   "peerDependencies": {
-    "eslint": ">= 6",
-    "eslint-plugin-react": ">= 6"
+    "eslint": ">= 7",
+    "eslint-plugin-react": ">= 7"
   }
 }
