@@ -25,8 +25,8 @@ module.exports = {
   rules: {
     'react/prop-types': 'off',
     'indent': [
-      'warn',
-      2,
+      'error',
+      'tab',
     ],
     'quotes': [
       'warn',
