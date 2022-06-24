@@ -29,7 +29,7 @@ module.exports = {
       'tab',
     ],
     'quotes': [
-      'warn',
+      'error',
       'single',
     ],
     'no-console': [
@@ -46,6 +46,9 @@ module.exports = {
     ],
     'semi': [
       'error', 'always',
+    ],
+    'jsx-quotes': [
+      2, 'prefer-single'
     ],
   },
 }
