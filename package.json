@@ -1,5 +1,5 @@
 {
-  "name": "@dwarfreg/eslint-basic-config",
+  "name": "@dwarf-hq/eslint-basic-config",
   "version": "1.0.0",
   "description": "Basic ESlint settings for JavaScript projects.",
   "main": "index.js",
