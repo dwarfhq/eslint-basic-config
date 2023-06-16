@@ -17,7 +17,10 @@ module.exports = {
   rules: {
     'indent': [
       'error',
-      'tab',
+      2,
+      {
+        'SwitchCase': 1
+      }
     ],
     'quotes': [
       'error',
@@ -34,9 +37,6 @@ module.exports = {
     ],
     'comma-dangle': [
       'error', 'always-multiline',
-    ],
-    'semi': [
-      'error', 'always',
     ],
     'jsx-quotes': [
       2, 'prefer-single'
