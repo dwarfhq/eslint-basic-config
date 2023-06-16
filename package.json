@@ -1,29 +1,28 @@
 {
-  "name": "@jakebacon/eslint-config-react",
+  "name": "@dwarfreg/eslint-basic-config",
   "version": "1.0.0",
-  "description": "Standard ESlint settings for React projects.",
+  "description": "Basic ESlint settings for JavaScript projects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jakeBacon/eslint-config-react.git"
+    "url": "git+https://github.com/dwarfhq/eslint-basic-config.git"
   },
   "keywords": [
     "eslint",
     "eslintconfig",
     "eslint-config",
-    "eslint-config-react"
+    "eslint-basic-config"
   ],
-  "author": "Jakob Skov",
+  "author": "Dwarf A/S",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jakeBacon/eslint-config-react/issues"
+    "url": "https://github.com/dwarfhq/eslint-basic-config/issues"
   },
-  "homepage": "https://github.com/jakeBacon/eslint-config-react#readme",
+  "homepage": "https://github.com/dwarfhq/eslint-basic-config#readme",
   "peerDependencies": {
-    "eslint": ">= 7",
-    "eslint-plugin-react": ">= 7"
+    "eslint": ">= 8"
   }
 }
