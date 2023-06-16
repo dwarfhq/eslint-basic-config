@@ -1,1 +1,7 @@
-# eslint-config-react
+# Get started
+1. Run the following command to install the config in your project: `npm install @dwarf-hq/eslint-basic-config`
+2. Create a `.eslintrc.json` file in the root of your project.
+3. Add the following content to the `.eslintrc.json` file:
+    {
+      "extends": ["@dwarf-hq/eslint-basic-config"]
+    } 
